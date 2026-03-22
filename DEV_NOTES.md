@@ -19,3 +19,7 @@ Personal development log — notes, findings, and ongoing work.
 - Verified API endpoint response schema
 - Tidied up project structure
 - Added inline documentation for core functions
+
+## 2026-03-23
+- Added CONTRIBUTING.md stub
+- Added inline documentation for core functions
