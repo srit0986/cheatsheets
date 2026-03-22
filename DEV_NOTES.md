@@ -14,3 +14,8 @@ Personal development log — notes, findings, and ongoing work.
 - Resolved deprecation warnings
 - Bumped patch version
 - Wrote notes on upcoming feature design
+
+## 2026-03-23
+- Verified API endpoint response schema
+- Tidied up project structure
+- Added inline documentation for core functions
