@@ -38,3 +38,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-30
 - Documented config options
 - Improved log message formatting
+
+## 2026-03-30
+- Wrote notes on upcoming feature design
+- Fixed off-by-one error in loop
